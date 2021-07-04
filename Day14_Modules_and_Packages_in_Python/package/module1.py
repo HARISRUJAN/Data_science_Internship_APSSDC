@@ -1,4 +1,4 @@
-"""Hey welcome to my module called module1 from package package"""
+"""Hey welcome to my module called module1 from package package apssdc-datascience internship"""
 
 def isEven(num):
     """Check whether a number is even or not"""
